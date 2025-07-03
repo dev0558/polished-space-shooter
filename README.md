@@ -5,7 +5,7 @@
 
 ## 🚀 Live Demo  
 *Coming soon!*  
-*(You can embed a GIF or video here once ready.)*
+**
 
 ---
 
