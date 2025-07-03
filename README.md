@@ -30,3 +30,18 @@
 
 ```bash
 pip install pygame
+
+git clone https://github.com/yourusername/polished-space-shooter.git
+cd polished-space-shooter
+python main.py
+
+##Project Structure
+polished-space-shooter/
+├── main.py           # Main script with all game logic
+├── scores.json       # High-score storage (auto-generated)
+├── assets/           # *(Optional)* for future images/sounds
+│   ├── player.png
+│   ├── enemy.png
+│   └── ...
+└── README.md
+
